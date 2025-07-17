@@ -2,7 +2,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevJVMartins/DevJVMartins/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/DevJVMartins/DevJVMartins/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 
