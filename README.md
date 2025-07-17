@@ -8,6 +8,16 @@
 
 <p align="left">👋 Hello! I'm João Victor, a student passionate about the world of technology.<br><br>📚 Systems Analysis and Development Student<br>🚀 Passionate about technology, games and AI  <br>🌐 Exploring the world of web, mobile, and blockchain development<br>🎯 Looking for your first opportunity in technology</p>
 
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬I'm a budding Full Stack Developer, focusing on Java, JavaScript, HTML, CSS, and SQL. I'm currently studying Systems Analysis and Development, having completed additional courses at EBAC, and am seeking my first professional opportunity in technology.
+
+I'm passionate about solving problems with code, learning new technologies, and contributing to projects that positively impact people. In my repository, you'll find practical projects, studies, and challenges that showcase my development as a developer.
+
+  - ⚡ I like reading, whether it's a good book, manga, or comic, as well as watching movies and playing games!
+</details>
+
 ###
 
 <div align="left">
