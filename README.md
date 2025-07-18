@@ -1,5 +1,7 @@
 <h1 align="center">Fullstack Developer in Training</h1>
 
+![snake gif](https://github.com/DevJVMartins/DevJVMartins/blob/output/github-contribution-grid-snake.svg)
+
 ###
 
 
