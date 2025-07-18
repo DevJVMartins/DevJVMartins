@@ -2,7 +2,7 @@
 
 ###
 
-![snake gif](https://github.com/DevJVMartins/DevJVMartins/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ###
