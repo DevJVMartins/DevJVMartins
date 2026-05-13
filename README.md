@@ -15,9 +15,12 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬I'm a budding Full Stack Developer, focusing on Java, JavaScript, HTML, CSS, and SQL. I'm currently studying Systems Analysis and Development, having completed additional courses at EBAC, and am seeking my first professional opportunity in technology.
+ 💻 Aspiring Python Developer focused on automation and building practical solutions.
+Currently studying programming, logic, APIs, data analysis, and artificial intelligence while developing projects to improve my technical skills and build a strong portfolio.
 
-I'm passionate about solving problems with code, learning new technologies, and contributing to projects that positively impact people. In my repository, you'll find practical projects, studies, and challenges that showcase my development as a developer.
+🚀 Interested in back-end development, task automation, and AI applications, always looking to learn new technologies and grow as a developer.
+
+📚 Constantly learning and turning knowledge into real-world projects to create efficient and useful solutions through programming.
 
   - ⚡ I like reading, whether it's a good book, manga, or comic, as well as watching movies and playing games!
 </details>
